@@ -1,0 +1,5 @@
+com\hx\dao\IUserDao.class
+com\hx\service\impl\UserServiceImpl.class
+com\hx\service\IUserService.class
+com\hx\domain\User.class
+com\hx\controller\UserController.class
